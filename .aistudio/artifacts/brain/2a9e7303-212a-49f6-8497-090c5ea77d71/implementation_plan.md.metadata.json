@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for AI EyeCare, featuring a dual-mode application with a real-time in-browser computer vision dashboard (Webcam, MediaPipe Face Landmarker, adaptive dual-eye EAR blink detection, 20-20-20 screen rest reminders, acoustic chime) alongside a modular downloadable Python desktop suite with Pytest verification.",
+  "updatedAt": "2026-10-17T07:10:43.198192486Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

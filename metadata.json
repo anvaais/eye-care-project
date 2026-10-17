@@ -1,0 +1,10 @@
+{
+  "name": "AI EyeCare — Real-Time Eye Monitoring & Screen Break Assistant",
+  "description": "Privacy-first computer vision wellness assistant that tracks blinking dynamics, monitors screen sessions, and delivers gentle 20-20-20 screen rest reminders.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
